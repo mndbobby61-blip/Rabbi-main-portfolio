@@ -7,7 +7,7 @@ export default function Hero() {
       <div className="wrap hero-content">
         <div className="hero-kicker">
           <span className="status-dot" />
-          Junior Full Stack Developer
+          Full Stack Developer
         </div>
 
         <h1 className="hero-title">

@@ -240,8 +240,8 @@ export const education = [
 
 export const contact = {
   email: "mdbobby51@gmail.com",
-  phone: "+880 1719 768050",
-  whatsapp: "https://wa.me/8801719768050",
+  phone: "+880 1568570995",
+  whatsapp: "https://wa.me/8801568570995",
   location: "Dhaka, Bangladesh",
   github: "https://github.com/mndbobby61-blip",
   linkedin:
